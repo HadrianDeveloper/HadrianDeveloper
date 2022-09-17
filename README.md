@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 After 8 years in a senior Product Manager role in government, I’m now training to become a full stack engineer with Javascript as my primary language. 
+
 <!--
 **HadrianDeveloper/HadrianDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
